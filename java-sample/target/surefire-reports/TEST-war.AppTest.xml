@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.009" errors="0" skipped="0" tests="1" name="war.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin"/>
+    <property name="java.vm.version" value="11.3-b02"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\studying\java-sample"/>
+    <property name="java.runtime.version" value="1.6.0_13-b03"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="D:\studying\java-sample"/>
+    <property name="java.endorsed.dirs" value="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="surefire.real.class.path" value="D:\studying\java-sample\target\surefire\surefirebooter4658142514443459820.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\HAOTC~1.FSO\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows Vista"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/MyEclipse/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;C:/MyEclipse/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:/MyEclipse/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;c:\apache-maven-3.0.4\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;JAVA_HOME\bin;C:\Users\haotc.FSOFT-HCM\AppData\Roaming\npm"/>
+    <property name="surefire.test.class.path" value="D:\studying\java-sample\target\test-classes;D:\studying\java-sample\target\classes;C:\Users\haotc.FSOFT-HCM\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\org\springframework\spring\2.5.6\spring-2.5.6.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\cglib\cglib\2.2\cglib-2.2.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\asm\asm\3.1\asm-3.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\mysql\mysql-connector-java\5.1.9\mysql-connector-java-5.1.9.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\org\hibernate\hibernate\3.2.3.ga\hibernate-3.2.3.ga.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\net\sf\ehcache\ehcache\1.2.3\ehcache-1.2.3.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\asm\asm-attrs\1.5.3\asm-attrs-1.5.3.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\org\hibernate\hibernate-annotations\3.2.0.ga\hibernate-annotations-3.2.0.ga.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\javax\persistence\persistence-api\1.0\persistence-api-1.0.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\javax\transaction\jta\1.1\jta-1.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\haotc.FSOFT-HCM"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="haotc"/>
+    <property name="java.class.path" value="D:\studying\java-sample\target\test-classes;D:\studying\java-sample\target\classes;C:\Users\haotc.FSOFT-HCM\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\org\springframework\spring\2.5.6\spring-2.5.6.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\cglib\cglib\2.2\cglib-2.2.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\asm\asm\3.1\asm-3.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\mysql\mysql-connector-java\5.1.9\mysql-connector-java-5.1.9.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\org\hibernate\hibernate\3.2.3.ga\hibernate-3.2.3.ga.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\net\sf\ehcache\ehcache\1.2.3\ehcache-1.2.3.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\asm\asm-attrs\1.5.3\asm-attrs-1.5.3.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\org\hibernate\hibernate-annotations\3.2.0.ga\hibernate-annotations-3.2.0.ga.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\javax\persistence\persistence-api\1.0\persistence-api-1.0.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\javax\transaction\jta\1.1\jta-1.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\commons-collections\commons-collections\3.2.1\commons-collections-3.2.1.jar;C:\Users\haotc.FSOFT-HCM\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_13"/>
+    <property name="java.ext.dirs" value="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;C:\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="localRepository" value="C:\Users\haotc.FSOFT-HCM\.m2\repository"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="0.001" classname="war.AppTest" name="testApp"/>
+</testsuite>
