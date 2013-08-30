@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ajax-json"
+  id="myeclipse.1377762769119"
+  context-root="/store"
+  j2ee-spec="1.7"
+  archive="ajax-json.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
