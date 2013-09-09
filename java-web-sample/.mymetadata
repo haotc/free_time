@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HaoTC's Java Web Sample"
+  id="myeclipse.1377526050319"
+  context-root="/java-web-sample"
+  j2ee-spec="6.0"
+  archive="HaoTC's Java Web Sample.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
